@@ -1,0 +1,7 @@
+D:\GeekBr\Git\AdditionalTasks\BasicsInUnity\HW_05\bin\Debug\HW_05.exe.config
+D:\GeekBr\Git\AdditionalTasks\BasicsInUnity\HW_05\bin\Debug\HW_05.exe
+D:\GeekBr\Git\AdditionalTasks\BasicsInUnity\HW_05\bin\Debug\HW_05.pdb
+D:\GeekBr\Git\AdditionalTasks\BasicsInUnity\HW_05\obj\Debug\HW_05.csprojAssemblyReference.cache
+D:\GeekBr\Git\AdditionalTasks\BasicsInUnity\HW_05\obj\Debug\HW_05.csproj.CoreCompileInputs.cache
+D:\GeekBr\Git\AdditionalTasks\BasicsInUnity\HW_05\obj\Debug\HW_05.exe
+D:\GeekBr\Git\AdditionalTasks\BasicsInUnity\HW_05\obj\Debug\HW_05.pdb
